@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+body {
+	font-family: 'Karla', sans-serif;
+	font-size: 14px;
+}
+
+h1 {
+	color: hsl(179, 62%, 43%);
+	font-size: 25px;
+}
+
+h2 {
+	color: hsl(71, 73%, 54%);
+	font-size: 18px;
+}
+
+header p {
+	color: hsl(218, 22%, 67%);
+	line-height: 25px;
+}
+
+section {
+	color: #ffffff;
+}
+.subscription {
+	background-color: hsl(179, 62%, 43%);
+}
+
+button {
+	background-color: hsl(71, 73%, 54%);
+	border: 0;
+	color: #fff;
+	width: 100%;
+	border-radius: 3px;
+	padding: 15px;
+	box-shadow: 3px 3px 15px -2px #888888;
+}
+
+.dollar {
+	font-size: 30px;
+}
+
+.per-month {
+	opacity: .7;
+}
+
+.why-us {
+	background-color: hsla(179, 62%, 43%, 0.815);
+}
+
+ul {
+	list-style: none;
+	opacity: .70;
+}
+
+footer {
+	text-align: center;
+	font-size: 14px;
+}

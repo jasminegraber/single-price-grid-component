@@ -1,0 +1,57 @@
+body {
+	max-width: 375px;
+	margin: auto;
+}
+
+header {
+	margin: 25px;
+}
+
+header p {
+	margin-bottom: 25px;
+}
+h2 {
+	margin-top: 25px;
+}
+
+section {
+	padding: 25px;
+}
+
+div {
+	display: flex;
+}
+
+.dollar,
+.per-month {
+	margin: 0;
+}
+
+.dollar,
+.per-month {
+	display: inline;
+}
+
+.per-month {
+	margin-left: 7px;
+	align-self: center;
+}
+
+.full-access {
+	margin-top: 7px;
+	margin-bottom: 30px;
+}
+
+.subscription h3,
+.why-us h3 {
+	margin-top: 0;
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	margin: 5px 0;
+}
